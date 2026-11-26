@@ -2,6 +2,12 @@
 
 A reusable agent skill that helps an attendee choose between parallel talks at Reversim Summit 2026 and creates a one-page plan by default. It reads the [live summit agenda](https://summit2026.reversim.com/agenda) through the summit's public, read-only MCP. No account or API key is needed.
 
+## Example one-pager
+
+This example uses a fictional attendee and public talk details. It contains no personal ticket, calendar, or speaker information. [Open the example PDF](examples/example-one-pager.pdf).
+
+![Example Reversim Summit 2026 one-page talk plan with both Ignites sessions shown as single Main Hall blocks](examples/example-one-pager.png)
+
 ## Use it
 
 Install this repository as a skill in your AI assistant, or ask your assistant: **"Install the skill from `https://github.com/shmulc8/reversim-summit-2026-planner` and use it to plan my Reversim Summit talks."** The skill file is at the repository root.
