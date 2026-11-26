@@ -1,6 +1,6 @@
 ---
 name: reversim-summit-2026-planner
-description: Help a Reversim Summit 2026 attendee choose between simultaneous talks using the live summit MCP, then make a practical one-page itinerary. Use for the Nov 30-Dec 1, 2026 summit only.
+description: Help a Reversim Summit 2026 attendee choose between simultaneous talks using the live summit MCP and make a one-page itinerary by default. Use for the Nov 30-Dec 1, 2026 summit only.
 ---
 
 # Reversim Summit 2026 planner
@@ -31,7 +31,7 @@ Times are venue-local (`Asia/Jerusalem`); talks are in Hebrew. Recheck the live 
 
 - Explain the recommendation at the level of **specific content**: what the abstract promises, why it fits this attendee, and how it compares with the simultaneous alternatives. Prefer concrete methods, evidence, and novel ideas when those matter to the attendee. Do not fill every slot merely because a talk exists.
 - Preserve lunch, travel between rooms, speaker preparation, and networking time. A speaker's own session takes precedence over a competing talk. Do not send email, modify a calendar, or publish an itinerary unless the attendee asks.
-- Give a concise plan by day with time, room, linked title, and one-line reason. Mark optional picks and real conflicts. Render each day's Ignites as a **single large Main Hall block**, naming interesting five-minute segments within it when useful.
-- When asked for a one-pager, make a mobile-friendly or printable one-page guide with the chosen parallel-track talks, the Ignites blocks, essential commitments, and live-agenda links. If producing a PDF, render it and check that it is genuinely one legible page. Do not include private ticket URLs or personal details in a shareable file unless the attendee wants them there.
+- Deliver a **one-page itinerary by default**, without waiting for a separate request. Include each day's chosen parallel-track talks with time, room, linked title, and one-line reason. Mark optional picks and real conflicts. Render each day's Ignites as a **single large Main Hall block**, naming interesting five-minute segments within it when useful.
+- When file creation is available, make the one-pager a mobile-friendly, printable PDF and render it to confirm that it is genuinely one legible page. Otherwise, provide the one-pager directly in chat. Include essential commitments and live-agenda links. Do not include private ticket URLs or personal details in a shareable file unless the attendee wants them there.
 
 If the MCP is unavailable, use the [official agenda](https://summit2026.reversim.com/agenda) and say which source you used. The attendee's preferences always outrank the MCP's keyword score.
