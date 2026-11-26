@@ -4,7 +4,7 @@ A reusable agent skill that helps an attendee choose between parallel talks at R
 
 ## Example one-pager
 
-This example uses a fictional attendee and public talk details. It contains no personal ticket, calendar, or speaker information. [Open the example PDF](examples/example-one-pager.pdf).
+This example uses a fictional attendee and public talk details. It contains no personal ticket, calendar, or speaker information. The logo comes from the [official summit site](https://summit2026.reversim.com/). [Open the example PDF](examples/example-one-pager.pdf).
 
 ![Example Reversim Summit 2026 one-page talk plan with both Ignites sessions shown as single Main Hall blocks](examples/example-one-pager.png)
 
